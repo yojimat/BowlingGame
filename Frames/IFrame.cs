@@ -1,4 +1,4 @@
-﻿namespace BowlingGame
+﻿namespace BowlingGame.Frames
 {
     internal interface IFrame
     {
